@@ -1,0 +1,56 @@
+.container {
+    padding: 60px 50px;
+    border: 0.5px solid pink;
+    background: linear-gradient(blue, 10%, pink);
+    width: 60%;
+}
+
+body {
+    color: wheat;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+    color: hotpink;
+}
+
+h2 {
+    position: relative;
+    right: -150px;
+    top: 10px;
+    font-size: 30px;
+}
+
+h5 {
+    text-align: center;
+}
+
+p {
+    position: relative;
+    right: -628px;
+    top: -780px;
+}
+
+button {
+    position: relative;
+    top: -35px;
+    right: -85px;
+}
+
+.btn btn-primary {
+    position: relative;
+    left: -20px;
+    bottom: -50px;
+}
+
+.index {
+    position: relative;
+    top: -120px;
+}
+
+.hour {
+    position: relative;
+    top: -120px;
+}
